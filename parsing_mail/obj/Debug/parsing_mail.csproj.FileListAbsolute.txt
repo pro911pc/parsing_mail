@@ -1,0 +1,12 @@
+C:\MyProjects\parsing_mail\parsing_mail\bin\Debug\parsing_mail.exe.config
+C:\MyProjects\parsing_mail\parsing_mail\bin\Debug\parsing_mail.exe
+C:\MyProjects\parsing_mail\parsing_mail\bin\Debug\parsing_mail.pdb
+C:\MyProjects\parsing_mail\parsing_mail\bin\Debug\log4net.dll
+C:\MyProjects\parsing_mail\parsing_mail\bin\Debug\log4net.xml
+C:\MyProjects\parsing_mail\parsing_mail\obj\Debug\parsing_mail.csproj.AssemblyReference.cache
+C:\MyProjects\parsing_mail\parsing_mail\obj\Debug\parsing_mail.Properties.Resources.resources
+C:\MyProjects\parsing_mail\parsing_mail\obj\Debug\parsing_mail.csproj.GenerateResource.cache
+C:\MyProjects\parsing_mail\parsing_mail\obj\Debug\parsing_mail.csproj.CoreCompileInputs.cache
+C:\MyProjects\parsing_mail\parsing_mail\obj\Debug\parsing_mail.csproj.CopyComplete
+C:\MyProjects\parsing_mail\parsing_mail\obj\Debug\parsing_mail.exe
+C:\MyProjects\parsing_mail\parsing_mail\obj\Debug\parsing_mail.pdb

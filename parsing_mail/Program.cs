@@ -14,6 +14,8 @@ namespace parsing_mail
         [STAThread]
         static void Main()
         {
+            Logger.InitLogger();
+            Logger.Log.Info(string.Format("Начало работы ProductVersion:{0}", Application.ProductVersion));
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
